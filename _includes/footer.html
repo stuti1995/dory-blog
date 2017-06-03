@@ -4,14 +4,6 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
-                    <li>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
                     {% if site.twitter_username %}
                     <li>
                         <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -53,7 +45,9 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
+                {% if site.developer %}
+                    <p class="copyright text-muted">Site by : <a target="_new" href="{{ site.developer_url }}">{{ site.developer }}</a></p>
+                {% endif %}
             </div>
         </div>
     </div>

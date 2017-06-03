@@ -1,15 +1,16 @@
 # Site settings
 title: Dory da Blog
 header-img: img/dory.png
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+email: khoslastuti16@gmail.com
+copyright_name: Dory da Blog
 description: "some description"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+github_username:  abhinavagrawal1995/dory-blog/
+facebook_username:  stuti.khosla
+email_username:  khoslastuti16@gmail.com 
+developer_url: "https://abhinavagrawal.in"
+developer: "Abhinav Agrawal"
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
