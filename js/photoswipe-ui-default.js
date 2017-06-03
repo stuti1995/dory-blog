@@ -77,11 +77,11 @@ var PhotoSwipeUI_Default =
 			clickToCloseNonZoomable: true,
 
 			shareButtons: [
-				{id:'facebook', label:'Share on Facebook', url:'https://www.facebook.com/dialog/share?app_id=248996855307000&amp;href={{url}}&amp;picture=https://stuti1995.github.io{{raw_image_url}}'},
+				{id:'facebook', label:'Share on Facebook', url:'https://www.facebook.com/dialog/share?app_id=248996855307000&amp;href={{url}}&amp;picture=https://stuti1995.github.io{{raw_image_url}}&description={{text}}'},
 				{id:'twitter', label:'Tweet', url:'https://twitter.com/intent/tweet?text={{text}}&url={{url}}'},
 				{id:'pinterest', label:'Pin it', url:'http://www.pinterest.com/pin/create/button/'+
 													'?url={{url}}&media={{image_url}}&description={{text}}'},
-				{id:'download', label:'Download image', url:'{{raw_image_url}}', download:true}
+				{id:'download', label:'Download image', url:'https://stuti1995.github.io{{raw_image_url}}', download:true}
 			],
 			getImageURLForShare: function( /* shareButtonData */ ) {
 				return pswp.currItem.src || '';
