@@ -12,6 +12,7 @@ body {
   font-size: 20px;
   color: #404040;
   height: 100%;
+  webkit-tap-highlight-color: #0085a1;
 }
 p {
   line-height: 1.5;
@@ -51,7 +52,7 @@ hr.small {
   border-color: white;
 }
 .navbar-custom {
-  background: white;
+  background-color: rgba(0, 0, 0, 0.64);
   position: absolute;
   top: 0;
   left: 0;
@@ -60,6 +61,7 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
+  color: #fff;
   font-weight: 800;
 }
 .navbar-custom .nav li a {
@@ -70,7 +72,6 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    background: transparent;
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
@@ -108,13 +109,12 @@ hr.small {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
-    background-color: rgba(255, 255, 255, 0.9);
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
   }
-  .navbar-custom.is-fixed .navbar-brand {
+  /*.navbar-custom.is-fixed .navbar-brand {
     color: #404040;
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
@@ -127,7 +127,7 @@ hr.small {
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
     color: #0085a1;
-  }
+  }*/
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
     -webkit-transform: translate3d(0, 100%, 0);
@@ -185,6 +185,7 @@ hr.small {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 80px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
 }
 .intro-header .post-heading h1 {
@@ -405,6 +406,29 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
-body {
-  webkit-tap-highlight-color: #0085a1;
+
+.my-gallery {
+  width: 100%;
+  float: left;
+  -webkit-column-count: 3;
+  -webkit-column-gap:   10px;
+  -moz-column-count:    3;
+  -moz-column-gap:      10px;
+  column-count:         3;
+  column-gap:           10px;  
+}
+.my-gallery img {
+  width: auto;
+}
+.my-gallery figure {
+  display: block;
+  float: left;
+  margin: 0 5px 5px 0;
+  /*width: 300px;*/
+  border: black;
+  border-width: thick;
+  border-radius: 10px;
+}
+.my-gallery figcaption {
+  display: none;
 }
