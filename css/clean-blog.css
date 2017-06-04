@@ -4,6 +4,8 @@
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
 @import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
 
 html {
   height: 100%;
@@ -157,8 +159,9 @@ hr.small {
 .cover {
   height: 100%;
   display: inline-flex;
-  
+
 }
+
 .intro-header .container {
   margin: auto auto;
   width : 95%;
@@ -170,6 +173,8 @@ hr.small {
   color: white;
 }
 .site-heading h1, span{
+  /*yahachan*/
+  font-family: 'Pacifico', cursive;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .post-heading h1, span{
@@ -532,3 +537,7 @@ img::-moz-selection {
   -webkit-transform: scale(0, 0);
   transform: scale(0, 0);
 }
+
+
+
+
