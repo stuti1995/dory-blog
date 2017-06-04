@@ -3,6 +3,7 @@
  * Copyright 2015 Start Bootstrap
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
+@import url('https://fonts.googleapis.com/css?family=Barrio');
 
 html {
   height: 100%;
@@ -141,9 +142,7 @@ hr.small {
     transform: translate3d(0, 100%, 0);
   }
 }
-.cover {
-  height: 100%;
-}
+
 .intro-header {
   background: no-repeat center center;
   background-color: #808080;
@@ -153,6 +152,15 @@ hr.small {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 50px;
+  display: inline-flex;
+  width: 100%;
+}
+.cover {
+  height: 100%;
+}
+.intro-header .container {
+  margin: auto auto;
+  width : 95%;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
@@ -160,8 +168,11 @@ hr.small {
   padding: 100px 0 50px;
   color: white;
 }
-.site-heading h1, span,
+.site-heading h1, span{
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
 .post-heading h1, span{
+  font-family: 'Barrio', cursive;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 @media only screen and (min-width: 768px) {
@@ -441,7 +452,7 @@ img::-moz-selection {
 }
 .figure {
   margin: 10px;
-  min-width: 400px;
+  min-width: 300px;
   overflow: hidden;
   position: relative;
   width: 600px;
