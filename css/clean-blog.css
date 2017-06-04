@@ -152,11 +152,12 @@ hr.small {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 50px;
-  display: inline-flex;
   width: 100%;
 }
 .cover {
   height: 100%;
+  display: inline-flex;
+  
 }
 .intro-header .container {
   margin: auto auto;
