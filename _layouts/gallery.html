@@ -17,4 +17,24 @@ layout: default
 		</div>
 </header>
 
+
+<div class="container">
+	<div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+		{% for paintingMeta in site.pages %}
+			{% if paintingMeta.url contains '/paintings' %}
+				<!-- <h2>{{paintingMeta.title}}</h2>
+				<hr> -->
+		        <figure temprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+				  <a href="{{ site.baseurl }}/img/{{paintingMeta.filename}}" itemprop="contentUrl" data-size="1024x1024">
+				      <img src="{{ site.baseurl }}/img/{{paintingMeta.filename}}" itemprop="thumbnail" alt="{{paintingMeta.caption}}" />
+				  </a>
+				  <figcaption itemprop="caption description">{{paintingMeta.caption}}</figcaption>
+				</figure>
+				<!-- <br> -->
+		    {% endif %}
+		{% endfor %}
+	</div>
+</div>
+
 {{ content }}
+
