@@ -21,8 +21,11 @@ We must do ourselves a favour and stop telling ourselves that we have “forever
 
 
 What is dead, needs to be buried. 
+
 What is gone, needs to be forgotten. 
+
 What is done, is done. 
+
 Nothing will last forever. Not even you. 
 
 
