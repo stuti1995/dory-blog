@@ -7,9 +7,9 @@ header-img: "http://cdn.metroparent.com/wp-content/uploads/Manners101.jpg"
 One morning while I was sitting at the airport, I saw someone accidentally spill coffee over a middle aged man, who happened to brush against his shoulder as he hurriedly walked past him. This is how the conversation between them progressed-
 
 >“Hey Bhagwaan! Saari shirt ka satyanaash kar diya!”  
-“Isme meri kya ghalati hai? Aap dekhkar nahi chal sakte kya?”  
-“Arre coffee peeni nahi aati toh khareedi kyun?!”  
-“Oh Bhai Saab! Mujhe mat seekhaiye. Aap khud dhang se dekhkar chalna kyun nahi seekh lete? Aapki aankhein hain ya button?!”  
+>“Isme meri kya ghalati hai? Aap dekhkar nahi chal sakte kya?”  
+>“Arre coffee peeni nahi aati toh khareedi kyun?!”  
+>“Oh Bhai Saab! Mujhe mat seekhaiye. Aap khud dhang se dekhkar chalna kyun nahi seekh lete? Aapki aankhein hain ya button?!”  
 
 At this point I just gave up and went back to doing what I was doing. About five-seven minutes later I saw the men disperse, still muttering gibberish. One of them appeared to be a college going student- a backpack on his back, headphones around his neck, casually dressed. The other person was supposedly a working professional- he wore formal clothes and had a laptop bag in his hand. Educated adults.
 
