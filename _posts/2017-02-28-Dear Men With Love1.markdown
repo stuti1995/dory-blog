@@ -4,22 +4,22 @@ title: "Dear Men, With Love"
 header-img: "http://static.oprah.com/images/200406/omag/200406-omag-father-daughter-600x411.jpg"
 ---
 
->ìAji sunte ho! Mujhe zara si shopping karni hai. Sale ka last din hai! Le chalo na please!î
+>‚ÄúAji sunte ho! Mujhe zara si shopping karni hai. Sale ka last din hai! Le chalo na please!‚Äù
 (Honey! The sale ends today and I need to go shopping. Take me, please?)
-ìYaar Sunday hai aur match bhi hai.î
-(Itís a Sunday! And thereís a match today.)
-ìPlease?î
-*grins*  Chaliye ji. Hum toh bane hi hain biwi ke shopping bags uthaane ke liye!î
-(*grins* Letís go. Iíll carry your shopping bags around!)
+‚ÄúYaar Sunday hai aur match bhi hai.‚Äù
+(It‚Äôs a Sunday! And there‚Äôs a match today.)
+‚ÄúPlease?‚Äù
+*grins*  Chaliye ji. Hum toh bane hi hain biwi ke shopping bags uthaane ke liye!‚Äù
+(*grins* Let‚Äôs go. I‚Äôll carry your shopping bags around!)
 
 
 
->ìYou are coming for the party on Saturday night, right?î
-ìMum said no. Will have to coax Dad. Heíll never say no to me!î
+>‚ÄúYou are coming for the party on Saturday night, right?‚Äù
+‚ÄúMum said no. Will have to coax Dad. He‚Äôll never say no to me!‚Äù
 
 
 
->ìDo hafte bhi nahi huye ye month start huye aur paise khatm. Bhaiya ko patana padega!î
+>‚ÄúDo hafte bhi nahi huye ye month start huye aur paise khatm. Bhaiya ko patana padega!‚Äù
 (Less than two weeks into the month and I am already broke. Elder brother to the rescue!)
 
 
@@ -33,13 +33,13 @@ I remember distinctly, how my father would wake up every morning with me, get me
 
 In my adolescence, I was never allowed to leave home alone, or wear skirts/shorts outside of the house, or play outdoors after the sun set; the reason for which I did not understand. I questioned these decisions of my parents time and again. To my dismay, I was rarely ever given clear answers. I eventually got accustomed to the setting. As I moved from school to college, I made friends in the opposite gender too, not one of which I had back in school. My speaking to them over the phone or going out with them was no less than a culture shock to my parents. Again, I was not certain as to why.
 
-Moving to a new city entailed that I travelled a lot, most of it on my own. Buses, cabs, trains- you name it! In the process, I obviously encountered many strangers- many male strangers. Old, young, educated, uneducated, decent looking and creepy looking. But the one thing that tied them in a single thread for me was, how they would look at me, or rather my body. For that matter, any female that they would come across. Most of these men had no courage to meet eyes with us, but leering at our breasts was absolutely no problem at all. They gave away their seats if they saw an old woman standing in a bus, but deliberately running a hand over a young girlís waist or butt was also something they did with equal ease and convenience. And mind you, this happened with women clad in western wear as well as those donning a burkha. Such paradoxical display of behaviour in men was beyond my understanding.
+Moving to a new city entailed that I travelled a lot, most of it on my own. Buses, cabs, trains- you name it! In the process, I obviously encountered many strangers- many male strangers. Old, young, educated, uneducated, decent looking and creepy looking. But the one thing that tied them in a single thread for me was, how they would look at me, or rather my body. For that matter, any female that they would come across. Most of these men had no courage to meet eyes with us, but leering at our breasts was absolutely no problem at all. They gave away their seats if they saw an old woman standing in a bus, but deliberately running a hand over a young girl‚Äôs waist or butt was also something they did with equal ease and convenience. And mind you, this happened with women clad in western wear as well as those donning a burkha. Such paradoxical display of behaviour in men was beyond my understanding.
 
-I was out with a friend one day and he asked me to sit with him in the general compartment of the local train. I complied. Five minutes later, he bent over to me and whispered, ìWhy are all these met staring at you?!î ìWelcome to the other side of the world!î, I said. He shamefully looked away.
+I was out with a friend one day and he asked me to sit with him in the general compartment of the local train. I complied. Five minutes later, he bent over to me and whispered, ‚ÄúWhy are all these met staring at you?!‚Äù ‚ÄúWelcome to the other side of the world!‚Äù, I said. He shamefully looked away.
 
 I have been having some trouble understanding how there is such a stark contradiction in the way men conduct themselves in public. The brother who cannot stand his sister speaking to another guy in the street, himself whistles at young girls with a cigarette in his hand and a cheap song on his lips. I am struggling to comprehend as to why the attitude of men towards different women is governed by dissimilar rules. Just because I am a stranger to another man, does that entitle him to misbehave with me? I was being given the answers to the questions my parents once left unanswered.
 
-A perfect world without decent men around is unfathomable. Women have always had faith in the fact that men make superb fathers, terrific husbands and great brothers- which is why we look out for them and at the same time, seek their help and companionship. For many of us, our male counterparts are true treasures- not just because they introduce us to a different side of the world, but also because they make very good friends. We turn to our fathers for advice, our brothers for support and our best friends for a shoulder to cry on. There are so many things that we find impossible to explain to our mothers, sisters and female friends that the men easily figure out. So sometimes, they are just as a girl friend to us as we are a ìbroî to them.
+A perfect world without decent men around is unfathomable. Women have always had faith in the fact that men make superb fathers, terrific husbands and great brothers- which is why we look out for them and at the same time, seek their help and companionship. For many of us, our male counterparts are true treasures- not just because they introduce us to a different side of the world, but also because they make very good friends. We turn to our fathers for advice, our brothers for support and our best friends for a shoulder to cry on. There are so many things that we find impossible to explain to our mothers, sisters and female friends that the men easily figure out. So sometimes, they are just as a girl friend to us as we are a ‚Äúbro‚Äù to them.
 
 
 
