@@ -29,7 +29,7 @@ We all have grown up in the presence of a number of men- who were, or still are,
 
 I remember distinctly, how my father would wake up every morning with me, get me ready for school, prepare my lunch and drop me off. I remember him being there for me at every school event, or for that matter, everywhere I ever went. Even today, I see him treat my friends like children of his own. In this regard, brothers are no less. My brother looked after me when I did not keep well, bought me a candy when he saved some money as a kid, decorated the house with balloons for my birthday party and covered my books when I was too naive to do so myself. So, I grew up believing that I could be most safe in the presence of men like these.
 
-![photo 1]("https://s3.amazonaws.com/WisdomPlanet/wisdomtimes/wp-content/uploads/2018/04/04171417/51-Best-Father-Daughter-Quotes_422212270.jpg")
+![photo 1](https://s3.amazonaws.com/WisdomPlanet/wisdomtimes/wp-content/uploads/2018/04/04171417/51-Best-Father-Daughter-Quotes_422212270.jpg)
 
 In my adolescence, I was never allowed to leave home alone, or wear skirts/shorts outside of the house, or play outdoors after the sun set; the reason for which I did not understand. I questioned these decisions of my parents time and again. To my dismay, I was rarely ever given clear answers. I eventually got accustomed to the setting. As I moved from school to college, I made friends in the opposite gender too, not one of which I had back in school. My speaking to them over the phone or going out with them was no less than a culture shock to my parents. Again, I was not certain as to why.
 
