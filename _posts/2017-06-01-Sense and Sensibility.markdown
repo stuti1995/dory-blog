@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get Away"
+title: "Sense and Sensibility"
 header-img: "http://cdn.metroparent.com/wp-content/uploads/Manners101.jpg"
 ---
 
