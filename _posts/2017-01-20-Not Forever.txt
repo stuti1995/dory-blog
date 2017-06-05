@@ -1,7 +1,7 @@
 ---
- layout: post
- title: "Not Forever"
- header-img: "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAo6AAAAJDY4Zjc1ZjhmLWY1YWQtNDY1YS1iNTQ5LTg3MjRkMTIwNGY5MQ.jpg"
+layout: post
+title: "Not Forever"
+header-img: "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAo6AAAAJDY4Zjc1ZjhmLWY1YWQtNDY1YS1iNTQ5LTg3MjRkMTIwNGY5MQ.jpg"
 ---
 
 _“No man ever steps in the same river twice, for it is not the same river and he is not the same man.”_ - Heraclitus
