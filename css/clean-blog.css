@@ -3,7 +3,7 @@
  * Copyright 2015 Start Bootstrap
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
-/*@import url('https://fonts.googleapis.com/css?family=Barrio');*/
+@import url('https://fonts.googleapis.com/css?family=Barrio');
 @import url('https://fonts.googleapis.com/css?family=Cookie');
 /*@import url('https://fonts.googleapis.com/css?family=Pacifico');*/
 @import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
@@ -250,6 +250,10 @@ hr.small {
     font-size: 30px;
   }
 }
+.post-preview {
+  font-family: 'Barrio', cursive;
+}
+  
 .post-preview > a {
   color: #404040;
 }
@@ -444,7 +448,8 @@ img::-moz-selection {
   -o-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  display: -webkit-box;
+  display: box;
+  display: -webkit-flexbox;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-lines: multiple;
@@ -452,6 +457,8 @@ img::-moz-selection {
   -o-box-lines: multiple;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  -webkit-flex-direction: column;
+   flex-direction: column;
   -webkit-box-pack: center;
   -o-box-pack: center;
   -ms-flex-pack: center;
