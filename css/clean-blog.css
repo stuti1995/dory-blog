@@ -266,12 +266,12 @@ hr.small {
 .post-preview > a > .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 10px;
+  margin-bottom: 10px;  
+  font-family: 'Barrio', cursive;
 }
 .post-preview > .post-meta {
   color: #808080;
   font-size: 18px;
-  font-family: 'Barrio', cursive;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
