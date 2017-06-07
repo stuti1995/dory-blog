@@ -1,24 +1,33 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+# My Midnight Muse
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+This is the source code for the website - MyMidnightMuse
 
-###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+## Instructions-
 
-## Before You Begin
+# Uploading new posts-
+  All posts need to have a header in this format -
 
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
+  ---
+  layout: post
+  title: "The title of the post"
+  header-img: "external link to the image"
+  ---
 
-It should look like this:
-`baseurl: ""`
+  Save as "YYYY-MM-DD-name of post.markdown" Ensure UTF-8 encoding.
+  Upload it in the folder *_posts*
+    
+# Uploading new paintings for the gallery-
+This has two parts. 
+1. The actual image- a jpeg/png file, with a (preferably) short name. This will be uploaded in the *img* folder.
+2. Informaton about the painting. This will be in the format- 
+  ---
+  title: "Small title for the painting"
+  caption: "1-2 lines description for the painting"
+  filename: "the filename of the picture uploaded in img folder"
+  ---
+  
+  This file can be named "_anything.markdown_". Only the markdown part is important. 
+  Upload this file to the *paintings* folder.
 
-## What's Included
-
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to apply the MIT license, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
-
-## Support
-
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+    
+    
