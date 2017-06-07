@@ -250,10 +250,6 @@ hr.small {
     font-size: 30px;
   }
 }
-.post-preview {
-  font-family: 'Barrio', cursive;
-}
-  
 .post-preview > a {
   color: #404040;
 }
@@ -275,7 +271,7 @@ hr.small {
 .post-preview > .post-meta {
   color: #808080;
   font-size: 18px;
-  font-style: italic;
+  font-family: 'Barrio', cursive;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
