@@ -26,8 +26,8 @@ layout: default
 				  <a href="{{ site.baseurl }}/img/{{paintingMeta.filename}}" itemprop="contentUrl" data-size="1024x1024">
 				      <img src="{{ site.baseurl }}/img/{{paintingMeta.filename}}" itemprop="thumbnail" alt="{{paintingMeta.caption}}" class="figure__img"/>
 				  </a>
-				  <figcaption class="figure__caption" itemprop="caption description">{{paintingMeta.caption}}</figcaption>	
-				  <p class="figure__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos minima dolores, officia ea modi est illo quibusdam, architecto autem eveniet veniam quisquam, odio eaque. Fugit, reiciendis, non. Eos, facilis fugiat!</p>
+				  <figcaption class="figure__caption" itemprop="caption description">{{paintingMeta.title}}</figcaption>	
+				  <p class="figure__description">{{paintingMeta.caption}}</p>
 				</figure>
 				<!-- <br> -->
 		    {% endif %}
