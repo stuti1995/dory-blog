@@ -1,6 +1,6 @@
 ---
 
-title: "Guatam Buddha"
+title: "Gautam Buddha"
 
 caption: "An image of Lord Buddhha painted on an ivory sheet with poster paints."
 
