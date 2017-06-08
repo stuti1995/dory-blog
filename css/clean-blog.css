@@ -460,14 +460,16 @@ img::-moz-selection {
   -ms-flex-pack: center;
   justify-content: center;
   margin: 0 auto;
+  width: 90%;
   max-width: 1400px;
   padding: 20px;
 }
 .figure {
-  margin: 10px;
+  margin: 10px auto;
   min-width: 300px;
   overflow: hidden;
   position: relative;
+  max-width: 100%;
   width: 600px;
 }
 .figure p{
@@ -498,7 +500,7 @@ img::-moz-selection {
   -webkit-filter: none;
           filter: none;
   max-width: 100%;
-  max-height: 700px;
+  /*max-height: 700px;*/
   -webkit-transform: scale(1.2, 1.2);
   transform: scale(1.2, 1.2);
   -webkit-transition: -webkit-transform 0.3s ease, filter 0.3s ease 0.3s;
