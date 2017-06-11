@@ -48,3 +48,11 @@ layout: default
 </article>
 
 <hr>
+
+<div class="container">
+    {% if site.disqus-shortname %}
+     {% include disqus.html %}
+    {% endif %}
+</div>
+
+<hr>
