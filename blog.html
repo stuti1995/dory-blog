@@ -1,0 +1,21 @@
+---
+layout: page
+description: "<i>I often think that the night is more alive and more richly colored than the day.- Vincent Van Gogh </i>"
+title: "Blog"
+header-img: "home-bg.jpg"
+---
+{% for post in site.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+<hr>
+{% endfor %}

@@ -547,6 +547,11 @@ img::-moz-selection {
   -webkit-transform: scale(0, 0);
   transform: scale(0, 0);
 }
+@media only screen and (max-width: 768px) {
+  .figure__description {
+    visibility: hidden
+  }
+}
 
 
 

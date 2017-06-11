@@ -3,34 +3,12 @@ layout: homepage
 description: "<i>I often think that the night is more alive and more richly colored than the day.- Vincent Van Gogh </i>"
 header-img: "home-bg.jpg"
 ---
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
-</div>
+<h1>Note to viewers</h1>
 <hr>
-{% endfor %}
+<p>My name is Stuti. I am a twenty-something female trying to piece together parts of my existence in order to fully understand where my life is actually headed. As part of that process, I had implanted the idea for a website like this in my head a couple of months ago. Since then, I have also tried uprooting the very idea several times, branding it as another directionless thought. Ergo, my so-called "problems" are not unique. But the fact that I had been losing touch with my old self- the version of me that I really, really liked- was, and still is, the most important reason why I gave in and chose to let an online platform become my two-way window to the rest of the world. </p>
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+<p>'My Midnight Muse' is the digital reflection of who I am as a person. It is an interface I am trying to create, in order to initiate communication through my pen and my paint brush, with the sheer motive of discovering how far I can go with this enterprise. I am tracing my way back to the girl I left behind four years ago and trying to make her meet hands with the girl that I am today. Taking a sincere chance at what I know best, this unapologetically honest endeavor is also an indirect way of allowing my parents to believe that I am capable of using my laptop for reasons other than watching TV series! </p>
+
+<p>In all truthfulness, there are no major reasons why an amateur like myself should be given much attention. But if you have two minutes, do browse through. You might find something that resonates with you.</p>
+
+<p>Happy Musing!</p>
