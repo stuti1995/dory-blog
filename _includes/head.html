@@ -7,7 +7,7 @@
     <meta property="og:url"  content="{{ sit.url }}" />
     <meta property="og:type"               content="article" />
     <meta property="og:title"              content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta property="og:description"        content="{{ site.description }}" />
+    <meta property="og:description"        content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
