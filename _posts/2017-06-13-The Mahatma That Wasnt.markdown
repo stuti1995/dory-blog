@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mahatma That Wasn't"
-header-img: "http://www.kamat.com/mmgandhi/33061.jpg"
+header-img: "http://2.bp.blogspot.com/-O4JoKQSbLk8/VdQlBALnXaI/AAAAAAAAHqI/TtjzjV9tnVk/s1600/Ghandi.jpg"
 ---
 
 “My life is my message.”- Mohandas Karamchand Gandhi
