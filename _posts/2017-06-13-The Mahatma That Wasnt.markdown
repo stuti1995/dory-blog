@@ -14,7 +14,7 @@ header-img: "http://notevenpast.org/wp-content/uploads/SM.jpg"
 
 <p> It is however difficult for me to accept that this human skeleton was devoid of, if not a dark side, at least a twisted one. On basic digging up, I was presented with episodes from the life of the revered Gandhiji, that made me see him in a different light- a light that mirrored all the dark and the twisted in him instead of reflecting the whiteness in which he had skilfully enveloped himself. </p>
 
-![gandhi 2] (http://ekalatours.com/wp-content/uploads/ekala-eco-tours-Gandhi-26.jpg)
+![gandhi 2](http://ekalatours.com/wp-content/uploads/ekala-eco-tours-Gandhi-26.jpg)
 
 <p> It is not unknown how vehemently Gandhiji had opposed the practise of apartheid, especially during his time in South Africa. What caught less attention was the fact that he himself chose to claim that the Europeans sought to degrade Indians to the level of ‘raw Kaffirs’ (native Africans), Kaffir being the operative derogatory term used for the said people. He claimed that hunting was all these people knew and they found contentment in “indolence and nakedness”, striking a stark contrast from the “better class Indians”. He reportedly even appealed to the authorities to end the indignity caused to Indians by using the same entrance to post offices as the blacks and recounted it as a victory when three separate doors- one each for the Asiatics, Europeans and Natives were introduced. It is hard to imagine how this does not negate his stand against racism itself. </p>
 
