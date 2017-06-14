@@ -45,6 +45,9 @@
                     </li>
                     {% endif %}
                 </ul>
+                {% if site.copyright_name %}
+                    <p class="copyright text-muted">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
+                {% endif %}
                 {% if site.developer %}
                     <p class="copyright text-muted">Site by : <a target="_new" href="{{ site.developer_url }}">{{ site.developer }}</a></p>
                 {% endif %}
