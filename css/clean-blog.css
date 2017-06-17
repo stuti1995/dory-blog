@@ -553,6 +553,10 @@ img::-moz-selection {
   }
 }
 
-
+.index-logo {
+  width:70%;
+  height: auto;
+  margin: auto;
+}
 
 
