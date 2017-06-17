@@ -7,7 +7,7 @@ description: "Pens, Brushes, and all Heart."
 baseurl: ""
 author: "Stuti Khosla"
 url: "http://mymidnightmuse.in"
-github_username:  stuti1995/dory-blog/
+github_username:  stuti1995/stuti1995.github.io
 facebook_username:  stuti.khosla
 email_username:  khoslastuti16@gmail.com 
 developer_url: "https://abhinavagrawal.in"
@@ -23,6 +23,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json"]
 
 gems: [jekyll-paginate, jekyll-feed]
