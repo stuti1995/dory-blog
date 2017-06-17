@@ -8,11 +8,11 @@
     <meta property="og:type"               content="article" />
     <meta property="og:title"              content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description"        content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-    <meta property="og:image" content="{% if page.header-img %}{{site.url}}/img/{{ page.header-img }}{% else %}/logo.jpg{% endif %}">
+    <meta property="og:image" content="{% if page.title and page.header-img%}{{site.url}}/img/{{ page.header-img }}{% else %}/logo.jpg{% endif %}">      
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="650">
     <meta property="og:image:height" content="650">
-
+    
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -36,12 +36,13 @@
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
 
+    {% if page.title == "Gallery"%}
     <!-- Gallery  -->
     <script src="{{ "/js/photoswipe.js " | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/photoswipe-ui-default.js " | prepend: site.baseurl }}"></script>
     <link rel="stylesheet" href="{{ "/css/default-skin/default-skin.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/photoswipe.css" | prepend: site.baseurl }}">
-
+    {% endif %}
 
     <!-- Custom Fonts -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
