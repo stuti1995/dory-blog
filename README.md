@@ -1,6 +1,6 @@
 # My Midnight Muse
 
-This is the source code for the website - MyMidnightMuse
+This is the source code for the website - mymidnightmuse.in
 
 ## Instructions-
 
